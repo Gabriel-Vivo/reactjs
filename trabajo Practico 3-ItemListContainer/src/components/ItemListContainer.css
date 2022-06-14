@@ -1,0 +1,15 @@
+.img {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+  
+  
+    
+  
+  }
+  .cardd {
+    border: 3px solid black;
+    padding-top: 30px;
+  }
