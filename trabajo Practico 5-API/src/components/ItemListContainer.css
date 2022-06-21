@@ -1,0 +1,10 @@
+
+.contenedor{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.loading {
+  margin-top: 20px;
+}
