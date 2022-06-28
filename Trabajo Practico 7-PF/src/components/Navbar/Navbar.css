@@ -1,0 +1,33 @@
+nav {
+    background-image: url(../imagenes/foto.png);
+    background-size: cover;
+    background-color: red;
+    height: 100px;
+    display: flex;
+  }
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 24px;
+    height: 100px;
+    list-style-type: none;
+    gap: 3rem;
+    margin-right: 2rem;
+    width: 100%;
+  }
+  .li {
+    text-decoration: none;
+    color: white;
+  }
+  .li:hover {
+    color: rgb(194, 194, 44);
+  }
+  .log {
+    width: 150px;
+  }
+  .logotipo {
+    width: 150px;
+    margin-left: 1rem;
+  }
+  
