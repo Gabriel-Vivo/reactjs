@@ -1,0 +1,13 @@
+.contenedor{
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 40px 0 40px 0;
+ align-items: center;
+justify-items: center;
+gap: 40px;
+
+transform: translateX(20%);
+
+}
+
