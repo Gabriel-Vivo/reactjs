@@ -1,0 +1,10 @@
+
+
+.cart-container {
+    width: 90%;
+    margin: 10px auto;
+}
+
+.cart-container h3 {
+    font-size: 2rem;
+}
