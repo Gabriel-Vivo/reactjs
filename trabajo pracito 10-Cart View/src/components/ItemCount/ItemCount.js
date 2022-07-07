@@ -14,10 +14,15 @@ export const ItemCount = ({ stock, initial, onAdd, name, price }) => {
   const [cart, addItem, clearCart, cantidadItems, cartTotal, removeItem] =  useContext(CartContext);
 
   const [counter, setCounter] = useState(initial);
+  
+ 
 
   const sumar = () => {
     if (counter < stock) {
       setCounter(counter + 1);
+      
+        
+
     } else {
       alert("no hay mas stock");
     }
