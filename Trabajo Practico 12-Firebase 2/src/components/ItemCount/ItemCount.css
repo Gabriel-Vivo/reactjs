@@ -1,0 +1,25 @@
+
+.botones{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-bottom: 35px;
+}
+
+#boton{   
+   
+    margin-top: 8px;
+}
+
+#btn2{   
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+p {
+
+    font-size: 30px;
+}

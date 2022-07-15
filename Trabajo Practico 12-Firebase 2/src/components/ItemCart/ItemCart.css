@@ -1,0 +1,15 @@
+.tarjeta-carrito{
+
+    border: 3px solid black;
+    display: flex;
+    justify-content:space-around;
+    justify-items: center;
+    align-items: center;
+    margin-top: 10px;
+    text-align: center;
+}
+
+img {
+
+    width: 100px;
+}
