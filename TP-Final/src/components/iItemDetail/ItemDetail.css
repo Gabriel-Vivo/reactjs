@@ -1,0 +1,23 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    border:  2px solid black;
+    margin: 10px;
+   
+}
+
+.foto{
+    width: 100%;
+}
+
+.imagen{
+    width: 450px;
+}
+
+.texto{
+    text-align: center;
+}
+
+.cantidad{
+    color: green;
+}

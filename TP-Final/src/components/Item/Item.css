@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+}
+
+.tarjetas{
+    border: 5px solid black;
+    margin-bottom: 10px;
+   
+}
+
+.tarjetas:hover{
+    
+    transform: scale(1.2,1);
+    transition: 5s;
+  
+    
+}

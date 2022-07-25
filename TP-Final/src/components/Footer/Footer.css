@@ -1,0 +1,16 @@
+.footer{
+    height: 150px;
+    background-color:gray;
+    margin-top: 300px;
+}
+
+.footer_contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.footer_p{
+    color:black;
+}
